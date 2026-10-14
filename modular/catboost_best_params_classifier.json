@@ -1,0 +1,11 @@
+{
+    "depth": 8,
+    "learning_rate": 0.09123889577380498,
+    "l2_leaf_reg": 5.104975292051057,
+    "subsample": 0.8974475627423197,
+    "rsm": 0.7078574188539778,
+    "thread_count": 2,
+    "random_seed": 42,
+    "iterations": 1000,
+    "verbose": false
+}

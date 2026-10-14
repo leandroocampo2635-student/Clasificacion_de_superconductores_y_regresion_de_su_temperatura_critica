@@ -1,0 +1,13 @@
+{
+    "max_depth": 9,
+    "learning_rate": 0.07168799181865036,
+    "reg_alpha": 7.26676085388665,
+    "reg_lambda": 4.7484514256663175,
+    "num_leaves": 243,
+    "subsample": 0.8091735327292774,
+    "colsample_bytree": 0.6338167658293276,
+    "device": "cpu",
+    "n_jobs": 2,
+    "random_state": 42,
+    "verbose": -1
+}
